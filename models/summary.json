@@ -1,0 +1,17 @@
+{
+  "pancake": {
+    "params": 1872911,
+    "best_val_acc": 79.73,
+    "best_epoch": 19
+  },
+  "tower": {
+    "params": 603151,
+    "best_val_acc": 79.27,
+    "best_epoch": 18
+  },
+  "champion": {
+    "params": 833551,
+    "best_val_acc": 84.2,
+    "best_epoch": 33
+  }
+}
